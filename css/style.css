@@ -1,0 +1,72 @@
+.logoborder{
+    border-bottom: 1px solid;
+    color: #e9e3f0;
+}
+
+.logo{
+    width: 150px;
+    margin: auto;
+}
+
+.middle{
+    width: 1100px;
+    margin: auto;
+}
+
+.our{
+    font-family: cursive;
+    text-align: center;
+    padding: 30px 0;
+    font-size: 30px;
+    max-width: 595px;
+    margin: auto;
+}
+
+.st1{
+    color: #03A9F4;
+}
+
+.st2{
+    color: #ff2b2b;
+}
+
+.sp1{
+    color: #00ac00;
+}
+
+.sp2{
+    color: #ffa100;
+}
+
+.image{
+    width: 100%;
+}
+
+.set{
+    font-family: ll;
+    font-size: 20px;
+    width: 230px;
+    padding-top: 40px;
+}
+
+.lorem{
+    font-size: 19px;
+    margin-bottom: 70px;
+}
+
+.boxtext{
+    background-color: #0c9965;
+    color: white;
+    text-align: center;
+    font-family: cursive;
+    font-size: 40px;
+    padding: 33px;
+    margin-bottom: 40px;
+}
+
+
+
+
+
+
+
